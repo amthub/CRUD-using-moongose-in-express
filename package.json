@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^5.0.0-beta.1",
+    "mongoose": "^7.0.3"
+  },
+  "name": "crud",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type":"module",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
